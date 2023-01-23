@@ -5,7 +5,7 @@ Projeto realizado durante a semana de lives do canal de Youtube Dev em dobro. Ne
 </p>
 
 <p align="center">
-  <img alt="projeto Mario Landing Page" src=".github/preview.png" width="100%">
+  <img alt="projeto Mario Landing Page" src="preview.png" width="100%">
 </p>
 
 ## Tecnologias
